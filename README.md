@@ -1,3 +1,13 @@
+<img width="1903" height="840" alt="Screenshot 2026-02-10 224810" src="https://github.com/user-attachments/assets/91eb8fe5-8e7d-4ede-b09c-46b251c65295" />
+<img width="1903" height="815" alt="Screenshot 2026-02-10 224648" src="https://github.com/user-attachments/assets/d0f46702-e64d-4267-b307-f49d2bbb044c" />
+<img width="1916" height="842" alt="Screenshot 2026-02-10 224628" src="https://github.com/user-attachments/assets/7edfef67-c10d-4b1e-a42e-cd6943d7d240" />
+<img width="1902" height="829" alt="Screenshot 2026-02-10 224618" src="https://github.com/user-attachments/assets/81a8a478-d77c-46c7-9676-6c2422e0d878" />
+<img width="1521" height="562" alt="Screenshot 2026-02-10 224608" src="https://github.com/user-attachments/assets/100b103a-a9b5-47c2-b54d-1e7993a8b75a" />
+<img width="1896" height="490" alt="Screenshot 2026-02-10 224559" src="https://github.com/user-attachments/assets/07d09f23-d437-4adc-a2e2-19bb46ba4025" />
+<img width="1913" height="853" alt="Screenshot 2026-02-10 224542" src="https://github.com/user-attachments/assets/7fef5caa-5cd7-404b-8715-9303d8bfe264" />
+<img width="1903" height="832" alt="Screenshot 2026-02-10 224530" src="https://github.com/user-attachments/assets/21fbea89-eee6-495c-a9c2-86128d07d6bf" />
+<img width="1919" height="1005" alt="Screenshot 2026-02-10 224346" src="https://github.com/user-attachments/assets/edb7ffbb-7dee-4d7a-bad2-8157c3db712e" />
+<img width="1322" height="561" alt="Screenshot 2026-02-10 222855" src="https://github.com/user-attachments/assets/0222bb41-e63b-4022-975f-0c69eed1d510" />
 # 🌌 Nexus AI - Advanced Agentic Assistant (Phase 3.1.0)
 
 Nexus AI is a powerful, modular, and extensible Agentic AI framework designed to orchestrate complex tasks through intelligent planning and tool execution. It features a modern Streamlit frontend and a robust FastAPI backend.
@@ -106,3 +116,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Built with ❤️ by the Nexus AI Team.
+
